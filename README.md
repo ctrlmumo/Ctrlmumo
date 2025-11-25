@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software Engineering student | Backend-leaning Full-Stack Developer<br>📚 Learning Python, MySQL, Django, JavaScript, and React<br>🛠 Currently building projects to master backend + frontend development<br>🎯 Focused on building clean, scalable, real-world applications<br>🌍 Based in Kenya, open to global remote opportunities<br>📈 Passionate about problem-solving, tech for good, and continuous learning
+💻 Software Engineering student | Backend-leaning Full-Stack Developer<br>📚 Learning Python, MySQL, Django, JavaScript and React<br>🛠 Currently building projects to master backend + frontend development<br>🎯 Focused on building clean, scalable, real-world applications<br>🌍 Based in Kenya, open to global remote opportunities<br>📈 Passionate about problem-solving, tech for good, and continuous learning
 
 
 ## 🌐 Socials:
